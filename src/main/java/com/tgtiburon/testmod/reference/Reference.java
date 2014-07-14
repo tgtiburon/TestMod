@@ -11,6 +11,6 @@ public class Reference
     public static final String CLIENT_PROXY_LOCATION =  "com.tgtiburon.testmod.proxy.ClientProxy";
     public static final String SERVER_PROXY_LOCATION =  "com.tgtiburon.testmod.proxy.ServerProxy";
     public static final String GUI_FACTORY_CLASS = "com.tgtiburon.testmod.client.gui.GuiFactory";
-
+    public static final String RESOURCES_PREFIX = MOD_ID.toLowerCase() + ":";
 }// class Reference
 

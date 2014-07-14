@@ -2,6 +2,8 @@ package com.tgtiburon.testmod;
 
 
 import com.tgtiburon.testmod.handler.ConfigurationHandler;
+import com.tgtiburon.testmod.init.ModBlocks;
+import com.tgtiburon.testmod.init.ModItems;
 import com.tgtiburon.testmod.proxy.IProxy;
 import com.tgtiburon.testmod.reference.Reference;
 import com.tgtiburon.testmod.utilities.LogHelper;
@@ -37,6 +39,11 @@ public class TestMod
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         //now we register our config handler
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
+        //Lets load our blocks
+        ModBlocks.init();
+        ModItems.init();
+
 
         LogHelper.info("PreInit Complete");
     }//end preInit
