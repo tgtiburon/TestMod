@@ -1,0 +1,16 @@
+[
+{
+  "modid": "TestMod",
+  "name": "Test Mod",
+  "description": "Mod to try stuff.",
+  "version": "0.1",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [" TgTiburon " ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,27 +1,11 @@
-[16:12:56] [main/INFO]: Setting user: ForgeDevName
-[16:12:57] [Client thread/INFO]: LWJGL Version: 2.9.1
-[16:13:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[16:13:03] [Sound Library Loader/INFO]: Sound engine started
-[16:13:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:13:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:13:03] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
-[16:13:03] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[16:13:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[16:13:04] [Sound Library Loader/INFO]: Sound engine started
-[16:13:10] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[16:13:10] [Server thread/INFO]: Generating keypair
-[16:13:10] [Server thread/INFO]: Preparing start region for level 0
-[16:13:11] [Server thread/INFO]: Changing view distance to 12, from 10
-[16:13:11] [Server thread/INFO]: ForgeDevName[local:E:23441ca3] logged in with entity id 238 at (-156.86071318141234, 4.0, 176.1065302668191)
-[16:13:11] [Server thread/INFO]: ForgeDevName joined the game
-[16:13:14] [Server thread/INFO]: Saving and pausing game...
-[16:13:14] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/Overworld
-[16:13:14] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/Nether
-[16:13:14] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/The End
-[16:13:15] [Server thread/INFO]: Stopping server
-[16:13:15] [Server thread/INFO]: Saving players
-[16:13:15] [Server thread/INFO]: Saving worlds
-[16:13:15] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/Overworld
-[16:13:15] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/Nether
-[16:13:15] [Server thread/INFO]: Saving chunks for level 'TestMod Testworld'/The End
-[16:13:16] [Client thread/INFO]: Stopping!
+[20:36:26] [main/INFO]: Setting user: ForgeDevName
+[20:36:27] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:36:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod
+[20:36:33] [Sound Library Loader/INFO]: Sound engine started
+[20:36:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:36:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:36:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Test Mod
+[20:36:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:36:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:36:36] [Sound Library Loader/INFO]: Sound engine started
+[20:36:46] [Client thread/INFO]: Stopping!
